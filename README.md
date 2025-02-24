@@ -59,7 +59,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 2.  Buktikan dengan screenshoot yang menunjukkan bahwa masing-masing tools tersebut
     telah berhasil terinstall di perangkat Anda!
 
-![ss](foto\1.png)
+![ss](foto/1.png)
 
 ### Pertanyaan Praktikum 2
 
@@ -114,15 +114,15 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 3.  Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah
     berhasil Anda lakukan!
 
-![ss](foto\2.png)
-![ss](foto\3.png)
+![ss](foto/2.png)
+![ss](foto/3.png)
 
 ### Pertanyaan Praktikum 3
 
 1. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah
    berhasil Anda lakukan!
 
-![ss](foto\4.png)
+![ss](foto/4.png)
 
 ### Pertanyaan Praktikum 4
 
@@ -135,4 +135,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 2.  Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah
     berhasil Anda lakukan!
 
-![ss](foto\5.png)
+![ss](foto/5.png)
